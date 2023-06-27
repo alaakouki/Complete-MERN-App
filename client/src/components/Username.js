@@ -1,7 +1,11 @@
 import React from 'react'
 
-export default function Username() {
+function Username() {
   return (
-    <div>Username</div>
+    <div>
+      Username
+    </div>
   )
 }
+
+export default Username;
